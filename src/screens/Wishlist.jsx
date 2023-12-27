@@ -20,6 +20,7 @@ const styles = StyleSheet.create({
         flex: 1,       
         alignItems: "center",
         justifyContent: "center",
+        backgroundColor: "fff",//no lo toma
       },
       wish:{
         marginTop:15
